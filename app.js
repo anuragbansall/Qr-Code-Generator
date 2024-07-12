@@ -11,5 +11,17 @@ async function getQrCode(){
 generateBtn.addEventListener("click", function(){
     if(inputText.value.trim()){
         getQrCode()
+    }else{
+        qrCodeImg.src = ''
+    }
+})
+
+inputText.addEventListener("keypress", function(e){
+    if(e.key == "Enter"){
+        if(inputText.value.trim()){
+            getQrCode()
+        }else{
+            qrCodeImg.src = ''
+        }
     }
 })
