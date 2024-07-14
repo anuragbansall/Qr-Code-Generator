@@ -24,17 +24,17 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://online-qrcode-gen.vercel.app/)
 
-* User Input: Users can enter any text or URL to generate a QR code.
-* Instant Generation: The QR code is generated quickly and efficiently upon input.
-* Versatile Use: Ideal for generating QR codes for `websites`, `contact details`, `WiFi passwords`, and more.
-* Simple Interface: User-friendly design for easy navigation and usage.
-* Compatibility: Generated QR codes can be `scanned` by any standard QR code read
+* `User Input:` Users can enter any text or URL to generate a QR code.
+* `Instant Generation:` The QR code is generated quickly and efficiently upon input.
+* `Versatile Use:` Ideal for generating QR codes for websites, contact details, `WiFi passwords`, and more.
+* `Simple Interface:` User-friendly design for easy navigation and usage.
+* `Compatibility:` Generated QR codes can be scanned by any standard QR code read
 
 ### Built With
 
-* HTML
-* CSS
-* JavaScript
+* `HTML`
+* `CSS`
+* `JavaScript`
 
 
 <!-- CONTACT -->
